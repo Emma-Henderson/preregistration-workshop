@@ -1,7 +1,7 @@
 Preregistration training aims to help researchers make their results more trustworthy by clearly differentiating pre-planned from exploratory analyses.
 
 This training will teach researchers to:
-* preregister studies and write Registered Reports (in which a journal prospectively agrees to publish a study on the basis of its methodology before the results are know)
+* preregister studies 
 * **find repositories**
 * identify **what type of studies** preregistration is most valuable for
 * choose an appropriate preregistration **template**
