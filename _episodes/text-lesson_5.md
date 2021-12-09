@@ -1,6 +1,6 @@
 ---
 title: "Prereg: Wrap up and finish"
-teaching: 15
+teaching: 20
 exercises: null
 duration: null
 summary: Summary of learning objectives and a chance to ask questions.
