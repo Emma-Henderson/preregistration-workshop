@@ -4,7 +4,9 @@ topic: preregistration
 title: "Workshop on preregistration: What, why, and how?"
 instructors:
   - Emma Henderson
-instructor_emails: []
+instructor_emails:
+  - e.l.henderson@surrey.ac.uk
+  - e.l.henderson@surrey.ac.uk
 helpers: []
 start_times:
   - 09|00
@@ -12,7 +14,7 @@ setup_files: []
 language: en
 venue: null
 address: null
-country: null
+country: GB
 latitude: null
 longitude: null
 start_date: null
